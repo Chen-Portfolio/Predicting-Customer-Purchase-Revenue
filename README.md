@@ -44,5 +44,5 @@ The main technical skills included in this project are:
 <a id='results'></a>
 ## Results
 
-The results have been clearly documented in the Jupyter Notebook. Please refer [Predicting_Customer_Revenue_Workbook.ipynb](Predicting_Customer_Revenue_Workbook.ipynb). 
+The results have been clearly documented in the Jupyter Notebook. Please refer to [Predicting_Customer_Revenue_Workbook.ipynb](Predicting_Customer_Revenue_Workbook.ipynb). 
 

@@ -14,7 +14,7 @@ In this project, more than 4000 customers transaction data for two years of an o
 
 This project is mainly divided into five steps:
 
-1.`Feature Engineering` in this part, based on existed columns and the target variable "Revenue", new columns such as "Revenue", "Year", "Days_Since, and "Avg_Order_Cost" were
+1.`Feature Engineering`, in this part, based on existed columns and the target variable "Revenue", new columns such as "Revenue", "Year", "Days_Since, and "Avg_Order_Cost" were
 created in order to generate features which are more correlated to the target variable.
 
 2. `Examining correlationship among features`, in this part, both pairplot and heatmap were applied to display the distribution and correlaionship visually of each variable and with each other variable.
